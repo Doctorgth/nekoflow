@@ -191,6 +191,6 @@ This project is distributed under the terms of the **GNU General Public License 
 
 The distribution includes the following third-party components under their respective licenses:
 * **Sing-box** (GPLv3) — https://github.com/SagerNet/sing-box
-* **Wintun** (GPLv2) — https://www.wintun.net/
+* **Wintun** (GPLv2 for source code; Wintun Prebuilt Binaries License for the compiled wintun.dll binary) — https://www.wintun.net/
 * **Python** (PSFL) — https://docs.python.org/3/license.html
 * **PySide6 / Qt** (LGPLv3) — https://doc.qt.io/qtforpython-6/

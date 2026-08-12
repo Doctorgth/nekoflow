@@ -189,6 +189,6 @@ pytest -v
 
 В составе дистрибутива используются сторонние открытые программные продукты:
 * **Sing-box** (GPLv3) — https://github.com/SagerNet/sing-box
-* **Wintun** (GPLv2) — https://www.wintun.net/
+* **Wintun** (GPLv2 для исходного кода; Wintun Prebuilt Binaries License для готового скомпилированного файла wintun.dll) — https://www.wintun.net/
 * **Python** (PSFL) — https://docs.python.org/3/license.html
 * **PySide6 / Qt** (LGPLv3) — https://doc.qt.io/qtforpython-6/

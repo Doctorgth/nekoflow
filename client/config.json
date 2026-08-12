@@ -1,0 +1,12 @@
+{
+  "socks_host": "127.0.0.1",
+  "socks_port": 1080,
+  "auth_enabled": false,
+  "users_file": "client/users.jsonl",
+  "aptcp_server_host": "77.105.128.154",
+  "aptcp_server_port": 1080,
+  "aptcp_auth_enabled": true,
+  "aptcp_username": "ASSASSASS",
+  "aptcp_password": "SSDASDASDGSFF",
+  "timeout": 30
+}

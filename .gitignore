@@ -1,0 +1,36 @@
+# IDEs and System files
+.idea/
+.vscode/
+Thumbs.db
+Desktop.ini
+
+# Python and testing environments
+.venv/
+venv/
+env/
+.pytest_cache/
+__pycache__/
+*.py[cod]
+*$py.class
+test_config.json
+test_ui_config.json
+
+# Build output
+# Root-level compiled C# executable launcher is ignored
+/NekoFlow.exe
+
+# Ignore the embedded portable Python distribution folder
+python/
+
+# Runtime configurations and local logs
+connecter_config.json
+connecter_config.json.tmp
+connecter_singbox.json
+connecter_windivert_singbox.json
+singbox.log
+whitelist_debug.log
+context_dump.txt
+
+# Track the tls/ directory structure as an empty folder but ignore certificates inside
+tls/*
+!tls/.gitkeep
